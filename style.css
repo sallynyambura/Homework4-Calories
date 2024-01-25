@@ -1,0 +1,11 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+}
+#calorieInput {
+    margin-bottom: 80px;
+    margin-top: 20px;
+}
